@@ -21,4 +21,12 @@ Frontend: HTML, CSS, JavaScript
 
 Logic: JavaScript for fetching exchange rates and performing conversions.
 
+** How to Use
+
+Select the source currency and target currency from the dropdown menus.
+
+Enter the amount to convert in the input field.
+
+The converted amount will be displayed below in real-time.
+
 
