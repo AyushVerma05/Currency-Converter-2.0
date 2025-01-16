@@ -37,4 +37,10 @@ Enter the amount to convert in the input field.
 
 The converted amount will be displayed below in real-time.
 
+** Author
+
+Ayush Verma
+
+Feel free to contribute or suggest improvements!
+
 
