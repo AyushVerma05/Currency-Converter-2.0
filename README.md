@@ -13,3 +13,12 @@ Fetches real-time exchange rates via an API.
 Displays the converted amount instantly.
 
 Error handling for invalid inputs and API issues.
+
+
+** Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Logic: JavaScript for fetching exchange rates and performing conversions.
+
+
